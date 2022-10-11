@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashishchauhan0001
-- 👀 I’m interested in ...WeBdEv.
-- 🌱 I’m currently learning ...JS
-- 💞️ I’m looking to collaborate on ...google website
-- 📫 How to reach me ...asch20080@gmail.com 
+- 👋 Hi, I’m Ashish Chauhan
+- 👀 I’m interested in Web Development and CP and want to contribute in Open Source.
+- 🌱 I’m currently learning FrontEnd Development
+- 💞️ I’m looking to collaborate with...google,amazon,microsoft!!
+- 📫 You can reach me through my mail: asch20080@gmail.com 
 
 <!---
 ashishchauhan0001/ashishchauhan0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

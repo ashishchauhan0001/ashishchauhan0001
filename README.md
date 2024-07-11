@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Chauhan
 - 👀 I’m interested in Web Development and CP and want to contribute in Open Source.
 - 🌱 I’m currently learning BackEnd Development
-- 💞️ I’m looking to collaborate in...google,amazon,microsoft!!
+- 💞️ I’m looking to collaborate in...big tech giants!!
 - 📫 You can reach me through my mail: asch20080@gmail.com 
 
 <!---

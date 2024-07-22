@@ -1,4 +1,20 @@
-# 👋 Hi, I’m Ashish Chauhan
+<h1 align="center">
+  👋 Hi, I’m Ashish Chauhan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <a href="mailto:asch20080@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="50" height="50" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-chauhan-001a53229">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" height="50" alt="LinkedIn Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Web+Development+Enthusiast;Programming+Lover;" alt="Typing SVG">
+</p>
 
 ## 👀 Interests
 - Web Development

@@ -15,22 +15,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Web+Development+Enthusiast;Programming+Lover;" alt="Typing SVG">
 </p>
+<div align="center">
+<h2> Interests 👀</h2> 
+ <p> Web Development </p> 
+  <p> Programming </p>
 
-## 👀 Interests
-- Web Development
-- Programming
 
-## 🌱 Currently Learning
-- Backend Development
-- Big Data Technologies
+<h2> Currently Learning 🌱</h2>
+ <p>Backend Development </p> 
+  <p> Big Data Technologies </p>
 
-## 💞️ Looking to Collaborate
-- Big Tech Giants
 
-## 📫 Contact
-- Email: [asch20080@gmail.com](mailto:asch20080@gmail.com)
+<h2>Looking to Collaborate 💞️</h2>  
+<p> Big Tech Giants</p>
 
-## 🌐 Connect with me:
+<h2>Contact 📫</h2>  
+ Email: asch20080@gmail.com
+</div>
+
+<h2 align="center">🌐 Connect with me: </h2> 
 <div align="center">
   <a href="https://www.linkedin.com/in/ashish-chauhan-001a53229/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="60" height="60" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/ashish_chauhan29?igsh=MWNpeW9zM2RhemdpcQ=="><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="60" height="60" alt="Instagram"/></a>
@@ -39,8 +42,8 @@
    <a href="https://geeksforgeek.com/u/Akki2910/"><img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="60" height="60" alt="GFG"/></a>
 </div>
 
-## 🛠️ Languages and Tools:
 
+<h2 align="center">🛠️ Languages and Tools: </h2> 
  <h2 align = "center"> Languages </h2>
 <div align="center">
   <a href="https://en.cppreference.com/w/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /></a>

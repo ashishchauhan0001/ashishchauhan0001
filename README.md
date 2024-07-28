@@ -1,20 +1,17 @@
+<p align="center">
+  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1722169973~exp=1722173573~hmac=acda439b2be50837c97dc52b569725b8518e3fcc43a7ac8d43aa40473cb1f82f&w=700">
+</p>
 <h1 align="center">
   👋 Hi, I’m Ashish Chauhan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  <a href="mailto:asch20080@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="50" height="50" alt="Email Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/ashish-chauhan-001a53229">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" height="50" alt="LinkedIn Badge">
-  </a>
+<p align="center" style="margin:100px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Data+Analyst" alt="Typing SVG"
+    >
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Web+Development+Enthusiast;Programming+Lover;" alt="Typing SVG">
-</p>
 <div align="center">
 <h2> Interests 👀</h2> 
  <p> Web Development </p> 
